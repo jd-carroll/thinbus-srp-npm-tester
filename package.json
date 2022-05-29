@@ -10,7 +10,6 @@
     "url": "git+https://github.com/simbo1905/thinbus-srp-npm-tester.git"
   },
   "scripts": {
-    "prepare": "gulp minify"
   },
   "dependencies": {
     "body-parser": "^1.18.2",
